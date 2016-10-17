@@ -11,5 +11,7 @@ Son los ejercicios que se pidieron de la tarea 1
  5. [Ejercicio CSS](https://github.com/letnfr/Tarea-1-LMSGI/blob/enlaces/Ejemplo%20de%20css.css)    
 
 En cada Ejercicio esta puesto el código que se pide; para el XML lo hice con la palabra ejemplo para HTML cree una página y le adjunte fotos; para CSS cogí esta misma página y la edite con otro css distinto al del ejemplo.
+
+
 2º [Ejercicio bloc-RTF](https://github.com/letnfr/Tarea-1-LMSGI/blob/enlaces/E1%20(copia).rtf)  
      En este segundo ejercicio no note ningún problema, el archivo se visualizó correctamente en ambas aplicaciones con el mismo texto.
