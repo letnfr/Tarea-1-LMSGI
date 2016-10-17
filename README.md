@@ -4,7 +4,7 @@ Son los ejercicios que se pidieron de la tarea 1
 ### Por *Josué Alonso*
 1º Crear documentos con el **bloc de notas** 
 
- 1. [Ejercicio RTF](URL "Ejemplo de rtf.rtf")  
+ 1. [Ejercicio RTF](URL "Tarea-1-LMSGI/Ejemplo de rtf.rtf")  
  2. [Ejercicio SP](URL "Título del enlace")  
  3. [Ejercicio XML](URL "Título del enlace")  
  4. [Ejercicio HTML](URL "Título del enlace")  
